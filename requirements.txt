@@ -1,0 +1,4 @@
+python-dotenv
+tinydb
+tabfm
+scikit-learn
